@@ -18,8 +18,8 @@
 
 ## MOOC courses
 
-- [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-- [Udacity Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
+- [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Udacity - Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
 
 ## Youtube
 
