@@ -16,6 +16,11 @@
 - [Computer Vision](http://www.cs.cmu.edu/afs/cs/academic/class/15385-s06/lectures/ppts/)
 - [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 
+## MOOC courses
+
+- [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Udacity Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
+
 ## Youtube
 
 - [EENG 512 - Computer Vision](https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3)
